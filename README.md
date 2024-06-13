@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vijayamrav
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on small interesting projects
+- 💞️ I’m looking to collaborate on exiting projects
 - 📫 How to reach me ..contact no:7032786479.
 
 <!---
