@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijayamrav
+- 👋 Hi, I’m @VijayVarma
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on exiting projects
